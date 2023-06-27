@@ -3,13 +3,13 @@
 
 - 🌱 I’m currently learning **React & keen to practice my JavaScript skills**
 
-- 👨‍💻 All of my projects are available at [https://github.com/itsapb](https://github.com/itsapb)
+- 👨‍💻 All of my projects are available right here, on GitHub.
 
 - 💬 Ask me about **HTML, CSS, Ruby & SQL**
 
 - 📫 Reach me at **palmerbrownalice@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/alice-palmer-brown-5b1b683b/](https://www.linkedin.com/in/alice-palmer-brown-5b1b683b/)
+- 📄 Find out about my past work experience [**over on Linked:In**](https://www.linkedin.com/in/alice-palmer-brown-5b1b683b/)
 
 - ⚡ Fun fact **I make all my own clothes, if you have Instagram, you can see some of them [here](https://www.instagram.com/apb.sews/)**
 
