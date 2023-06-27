@@ -11,7 +11,7 @@
 
 - 📄 Find out about my past work experience [**over on Linked:In**](https://www.linkedin.com/in/alice-palmer-brown-5b1b683b/)
 
-- ⚡ Fun fact **I make all my own clothes, if you have Instagram, you can see some of them [here](https://www.instagram.com/apb.sews/)**
+- ⚡ Fun fact **I make all my own clothes, you can see some of them [here](https://www.instagram.com/apb.sews/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
