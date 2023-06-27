@@ -7,11 +7,11 @@
 
 - 💬 Ask me about **HTML, CSS, Ruby & SQL**
 
-- 📫 How to reach me **palmerbrownalice@gmail.com**
+- 📫 Reach me at **palmerbrownalice@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/alice-palmer-brown-5b1b683b/](https://www.linkedin.com/in/alice-palmer-brown-5b1b683b/)
 
-- ⚡ Fun fact **I make all my own clothes, if you have Instagram, you can see some of them here: instagram.com/apb.sews**
+- ⚡ Fun fact **I make all my own clothes, if you have Instagram, you can see some of them here: [https:/instagram.com/apb.sews](instagram.com/apb.sews)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
