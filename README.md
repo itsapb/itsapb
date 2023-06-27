@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋🏽, I'm Alice 🪸</h1>
 <h3 align="center">A passionate frontend developer from South London & Bristol</h3>
+<br>
 
 - 🌱 I’m currently learning **React & keen to practice my JavaScript skills**
 
