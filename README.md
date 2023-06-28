@@ -10,7 +10,7 @@
 
 - 📫 Reach me at **palmerbrownalice@gmail.com**
 
-- 📄 Find out about my past work experience [**over on Linked:In**](https://www.linkedin.com/in/alice-palmer-brown-5b1b683b/)
+- 📄 Find out about my past work experience [**over on Linked:In**](https://www.linkedin.com/in/itsapb/)
 
 - ⚡ Fun fact **I make all my own clothes, you can see some of them [here](https://www.instagram.com/apb.sews/)**
 
