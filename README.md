@@ -12,7 +12,7 @@
 
 - 📄 Find out about my past work experience [**over on Linked:In**](https://www.linkedin.com/in/itsapb/)
 
-- ⚡ Fun fact **I make all my own clothes, you can see some of them [here](https://www.instagram.com/apb.sews/)**
+- ⚡ Fun fact **Another tech(nical) skill I enjoy is making all my own clothes, you can see some of them [here](https://www.instagram.com/apb.sews/)**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
